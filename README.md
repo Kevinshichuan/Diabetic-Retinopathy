@@ -2,7 +2,9 @@
 
 This folder contains the code and the description to build the prediction model on diabetic retinopathy. By building the prediction models, there are three methods to rank the features in the data set and determine the risk factors of diabetic retinopathy.
 
+Machine learning methods : Random Forests, Light Gradient Boosting Machine, Logistic Regression
 
+Feature Importance methods: Permutation Feature Importance, Odds Ratio, Shapley Additive Explanations
 
 Data set:
 
